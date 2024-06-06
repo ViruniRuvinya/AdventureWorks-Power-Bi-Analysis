@@ -4,21 +4,25 @@ This project leverages the AdventureWorks dataset to demonstrate comprehensive d
 ## Introduction
 The AdventureWorks Power BI Analysis project aims to showcase the capabilities of Power BI in handling real-world business data. By exploring the AdventureWorks2022 dataset, this project highlights various aspects of data import, transformation, modeling, and visualization to derive meaningful insights.
 
-Dataset link:(https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+Dataset link: (https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 
 ## Data Transformation
 The project includes ETL (Extract, Transform, Load) scripts to clean and prepare the AdventureWorks data. These scripts handle tasks such as:
+
 -Transforming data types
 -Creating calculated columns and measures
 -Visualizing
 
 ## Data Modeling
-Effective data modeling is crucial for meaningful analysis. This project demonstrates:
+Effective data modeling is crucial for meaningful analysis. This project demonstrates
+
 -Creating relationships between tables
+
 -Defining calculated columns and measures
   - Monthly Growth Rate
   - Total Amount
   - Yearly Growth Rate
+    
 -Implementing data hierarchies
 
 ## Visualizations and Reports

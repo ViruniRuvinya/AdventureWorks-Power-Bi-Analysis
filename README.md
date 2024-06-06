@@ -10,7 +10,9 @@ Dataset link: (https://learn.microsoft.com/en-us/sql/samples/adventureworks-inst
 The project includes ETL (Extract, Transform, Load) scripts to clean and prepare the AdventureWorks data. These scripts handle tasks such as:
 
 -Transforming data types
+
 -Creating calculated columns and measures
+
 -Visualizing
 
 ## Data Modeling
@@ -28,10 +30,13 @@ Effective data modeling is crucial for meaningful analysis. This project demonst
 ## Visualizations and Reports
 The core of this project is the interactive dashboards and reports created in Power BI. Key visualizations include:
 
--Analysis of Account Types: Analysis total amount according to the account types.
--Organizational Analysis: Insights into customer profiles and purchasing behavior.
--Yearly Growth Rate
--Monthly Growth Rate: Evaluation of monthly gwoth rate of each year.
+-**Analysis of Account Types**: Analysis total amount according to the account types.
+
+-**Organizational Analysis**: Insights into customer profiles and purchasing behavior.
+
+-**Yearly Growth Rate**
+
+-**Monthly Growth Rate**: Evaluation of monthly gwoth rate of each year.
 
 
 Enjoy exploring the AdventureWorks Power BI Analysis project and uncovering insights from the data! If you have any questions, please feel free to reach out.

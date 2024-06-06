@@ -38,6 +38,8 @@ The core of this project is the interactive dashboards and reports created in Po
 
 -**Monthly Growth Rate**: Evaluation of monthly gwoth rate of each year.
 
+Screenshot of the dashboard: ![Dashboard screenshot] (https://"github.com.....filepath")
+
 
 Enjoy exploring the AdventureWorks Power BI Analysis project and uncovering insights from the data! If you have any questions, please feel free to reach out.
 
